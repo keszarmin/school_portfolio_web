@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter,Route,Routes } from "react-router-dom";
+import Map from "./Map.js";
+import Root from "./Root.js";
+import A_Index from "./Routes/Armin/A_Index.js";
+import G_index from "./Routes/Gergo/G_index.js";
+import B_index from "./Routes/Balazs/B_index.js";
+import { useState } from "react";
 
 function App() {
+
+  const [Data, setData] = useState("")
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/school_portfolio_web/" element={<Root setData={setData} />} />
+        <Route path="/school_portfolio_web/" element={<Map curr={Data} />} >  
+          {/* Ármin */}
+          <Route path="/school_portfolio_web/armin" element={<A_Index />} />
+          {/* Gergő */}
+          <Route path="/school_portfolio_web/gergo" element={<G_index />} /> 
+          {/* Balázs */}
+          <Route path="/school_portfolio_web/balazs" element={<B_index />} /> 
+        </Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
