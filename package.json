@@ -9,7 +9,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "https://your-username.github.io/school_portfolio_web",
+  "homepage": "https://keszarmin.github.io/school_portfolio_web",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
