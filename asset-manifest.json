@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/school_portfolio_web/static/css/main.3c231e12.css",
-    "main.js": "/school_portfolio_web/static/js/main.f5e29a20.js",
+    "main.js": "/school_portfolio_web/static/js/main.022c8fa5.js",
     "static/media/1616944778816.gif": "/school_portfolio_web/static/media/1616944778816.18169ede7cdb4195b1d2.gif",
     "static/media/Neural_Networks.webp": "/school_portfolio_web/static/media/Neural_Networks.c1fbda02810d34e66e98.webp",
     "static/media/VID_20250211_085454_467.mp4": "/school_portfolio_web/static/media/VID_20250211_085454_467.0be18cf1d6c3c260bd41.mp4",
@@ -15,10 +15,10 @@
     "static/media/images (1).jpg": "/school_portfolio_web/static/media/images (1).5a85c1f2e09501c5c885.jpg",
     "index.html": "/school_portfolio_web/index.html",
     "main.3c231e12.css.map": "/school_portfolio_web/static/css/main.3c231e12.css.map",
-    "main.f5e29a20.js.map": "/school_portfolio_web/static/js/main.f5e29a20.js.map"
+    "main.022c8fa5.js.map": "/school_portfolio_web/static/js/main.022c8fa5.js.map"
   },
   "entrypoints": [
     "static/css/main.3c231e12.css",
-    "static/js/main.f5e29a20.js"
+    "static/js/main.022c8fa5.js"
   ]
 }
