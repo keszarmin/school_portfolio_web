@@ -1,0 +1,67 @@
+.body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: lightcyan;
+    color: black;
+    width: 100%;
+}
+.doboz {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    width: 100%;
+}
+.h1 {
+    text-align: center;
+}
+#h2 {
+    color: rgb(207, 82, 105);
+}
+.table{
+    background: lightyellow;
+    padding: 5px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    width: 300px;
+    margin: 10px;
+}
+th, td {
+    border: 1px solid lightskyblue;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: lightslategray;
+    color: white;
+}
+img{
+    border-radius: 50%;
+    margin: 0px;
+    width:200px
+}
+.kutya{
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    margin: 10px;
+    width:200px
+}
+.kutya2{
+    clip-path: ellipse(50% 35%);
+    width:200px
+}
+.kutya3{
+    clip-path: ellipse(50% 35% at right);
+    width:200px
+}
+.barna{
+    color: brown;
+}
+.kék{
+    color: blue;
+}
+.link{
+    text-align: right;
+}
+.züd{
+    color: green;
+}

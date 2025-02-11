@@ -5,3 +5,5 @@ Ez a project egy iskolai feladat célából készült.
 ## 1. Kész Ármin
 ## 2. Kordé Gergő
 ## 3. Stier Balázs
+
+A weboldal linkeje: https://keszarmin.github.io/school_portfolio_web/
