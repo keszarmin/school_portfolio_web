@@ -28,7 +28,7 @@ function A_Index() {
             Kész Ármin portfoliója
           </h2>
           <p className="mt-6 text-pretty text-lg/8 text-gray-300">
-            16 éves Pécsi Széchenyis tanuló vagyok. Sokat foglalkozok Neurális hálók fejlesztésével és érdekelnek az MI-vel kapcsolatos technológiák.
+          16 éves pécsi Széchenyis tanuló vagyok. Sokat foglalkozom neurális hálók fejlesztésével, és érdekelnek a MI-vel kapcsolatos technológiák.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
             <a
@@ -94,10 +94,10 @@ function A_Index() {
           <div className="lg:max-w-lg">
             <p className="text-base/7 font-semibold text-indigo-600">Rólam</p>
             <h1 className="mt-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
-              Életem és mindnapjaim
+            Életem és mindennapjaim
             </h1>
             <p className="mt-6 text-xl/8 text-gray-700">
-              Orfűn élek lassan mér 14 éve altalános iskolába 3 helyre is jártam de szerencsére már végeztem és pécsre járok a Széchenyibe amit szeretek is. Iskola után kondiba járok a barátaimal. A szabadidőmbe szeretek a barátaimal lenni és sportolni Orfű erre egy megfelelő hely. A családommal nagyon jó kapcsolatba vagyok apám is informatikával foglalkozott és most autók tuningolásával foglalkozik amelyben néha vissza köszön az informatika.
+            Orfűn élek lassan már 14 éve. Általános iskolába három helyre is jártam, de szerencsére már végeztem, és most Pécsre járok a Széchenyibe, amit szeretek is. Iskola után konditerembe járok a barátaimmal. Szabadidőmben szeretek a barátaimmal lenni és sportolni, Orfű erre egy megfelelő hely. A családommal nagyon jó kapcsolatban vagyok. Apám is informatikával foglalkozott, és most autók tuningolásával foglalkozik, amelyben néha visszaköszön az informatika.
             </p>
           </div>
         </div>
@@ -119,10 +119,10 @@ function A_Index() {
          <div className="lg:max-w-lg">
            <p className="text-base/7 font-semibold text-indigo-600">Rólam</p>
            <h1 className="mt-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
-             Tanulmányaim és érdeklődésem
+           Tanulmányaim és érdeklődésem
            </h1>
            <p className="mt-6 text-xl/8 text-gray-700">
-             10 éves korom óta foglalkozom programozásal, 15 éves korom óta foglalkozom az agy integrálásával az informatikába vagyis a Neurális hálózatokkal. Szeretnék Mesterséges inteligencia kutatásal vagy Neurális hálózatok kutatásával fejlesztésével foglalkozni a jövőben. 
+           10 éves korom óta foglalkozom programozással, 15 éves korom óta foglalkozom az agy integrálásával az informatikába, vagyis a neurális hálózatokkal. Szeretnék mesterséges intelligencia kutatással vagy neurális hálózatok kutatásával és fejlesztésével foglalkozni a jövőben.
            </p>
          </div>
        </div>
@@ -132,7 +132,7 @@ function A_Index() {
        <div className="lg:pr-4">
          <div className="max-w-xl text-base/7 text-gray-700 lg:max-w-lg">
            <p>
-             Mielött mesélnék a jelenlegi projektjeimről szeretnék mesélni egy-kettő régebbiről. Mielött elmerültem az NN-ek világába foglalkoztam web programozásal is túlnyomó részt React freamworksel codoltam Type scripteben és java scriptben a stílust a Tailwind css freamworksel programoztam és persze back-endben is sokszor elmerültem amelyet mindig is jobban szeretem mint a front-endet. 12-3 éves koromban már képes voltam egy REST full web projektet csinalni adatbázisal. Sajnos ezt sosem éreztem magaménak mindig is a gyors mély programok érdekeltek ezért elis kezdtem a cyber biztonságal foglalkozni amelyben nagyon sokat számít a gyorsaság, pontosság és a biztonság ezt mindig C-ben és Assemblyben csináltam megis irtam az első kész SHA-256 függvényemet C-ben. Tudtam hogy ezzel nem szolgálok számomra fontosabb érdekeket mert a biztonságra nem lenne szükség ha az ember nem olyan lenne amilyen és tudtam hogy nem segítek a világon ezzel ezért el is kezdtem a NN-k foglalkozni amelyek a jövőt és a fejlődést szolgálják.  
+           Mielőtt mesélnék a jelenlegi projektjeimről, szeretnék mesélni egy-kettő régebbiről. Mielőtt elmerültem az NN-ek világába, foglalkoztam webprogramozással is. Túlnyomórészt a React frameworkkel kódoltam TypeScriptben és JavaScriptben. A stílust a Tailwind CSS frameworkkel programoztam, és persze a back-endben is sokszor elmerültem, amelyet mindig is jobban szerettem, mint a front-endet. 12-13 éves koromban már képes voltam egy RESTful webprojektet csinálni adatbázissal. Sajnos ezt sosem éreztem magaménak; mindig is a gyors, mély programok érdekeltek, ezért elkezdtem a kiberbiztonsággal foglalkozni, amelyben nagyon sokat számít a gyorsaság, pontosság és biztonság. Ezt mindig C-ben és Assemblyben csináltam, sőt megírtam az első kész SHA-256 függvényemet is C-ben. Tudtam, hogy ezzel nem szolgálok számomra fontos érdekeket, mert a biztonságra nem lenne szükség, ha az ember nem olyan lenne, amilyen, és tudtam, hogy nem segítek a világon ezzel. Ezért elkezdtem a neurális hálózatokkal foglalkozni, amelyek a jövőt és a fejlődést szolgálják.
 
            </p>
            <ul role="list" className="mt-8 space-y-8 text-gray-600">
@@ -145,7 +145,7 @@ function A_Index() {
            </ul>
            <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">Jelenlegi projektem</h2>
            <p className="mt-6">
-           Jelenleg próbálom elsajátítani a Neurális hálózatok általános strukturáját és azzal építeni müködő hálózatokat. Tanulmányaimat az internetről szerzem de reménykedem késöbb lesz lehetőségem hivatalos úton is tanulni Egyetemen vagy főiskolán. Szeretnék olyan strukturákat létrehozni amelyek késöbb jobban tudnak müködni Quantum gépekel és kevesebb energiát használnak.
+           Jelenleg próbálom elsajátítani a neurális hálózatok általános struktúráját és ezekkel építeni működő hálózatokat. Tanulmányaimat az internetről szerzem, de remélem, hogy később lesz lehetőségem hivatalos úton is tanulni egyetemen vagy főiskolán. Szeretnék olyan struktúrákat létrehozni, amelyek később jobban tudnak működni kvantum gépekkel és kevesebb energiát használnak.
            </p>
          </div>
        </div>
