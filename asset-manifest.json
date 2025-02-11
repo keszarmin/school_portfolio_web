@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/school_portfolio_web/static/css/main.8296f539.css",
-    "main.js": "/school_portfolio_web/static/js/main.b039367b.js",
+    "main.css": "/school_portfolio_web/static/css/main.cef383e6.css",
+    "main.js": "/school_portfolio_web/static/js/main.31d1b2b8.js",
+    "static/media/474923330___n.jpg": "/school_portfolio_web/static/media/474923330_1685447045342770_7798102984512985406_n.1af062c78e28681fb844.jpg",
+    "static/media/476386637___n.jpg": "/school_portfolio_web/static/media/476386637_1136788998118664_7014420533502227881_n.38183e32992f99718015.jpg",
+    "static/media/477248936_483092181322232__n.jpg": "/school_portfolio_web/static/media/477248936_483092181322232_4099367182794330065_n.10b77bf1577f0b5a3c0e.jpg",
+    "static/media/images.jpg": "/school_portfolio_web/static/media/images.78ee4f84aecec5b9cb71.jpg",
+    "static/media/images (1).jpg": "/school_portfolio_web/static/media/images (1).5a85c1f2e09501c5c885.jpg",
     "index.html": "/school_portfolio_web/index.html",
-    "main.8296f539.css.map": "/school_portfolio_web/static/css/main.8296f539.css.map",
-    "main.b039367b.js.map": "/school_portfolio_web/static/js/main.b039367b.js.map"
+    "main.cef383e6.css.map": "/school_portfolio_web/static/css/main.cef383e6.css.map",
+    "main.31d1b2b8.js.map": "/school_portfolio_web/static/js/main.31d1b2b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.8296f539.css",
-    "static/js/main.b039367b.js"
+    "static/css/main.cef383e6.css",
+    "static/js/main.31d1b2b8.js"
   ]
 }
