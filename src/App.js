@@ -4,6 +4,7 @@ import Root from "./Root.js";
 import A_Index from "./Routes/Armin/A_Index.js";
 import G_index from "./Routes/Gergo/G_index.js";
 import B_index from "./Routes/Balazs/B_index.js";
+import I_index from "./Routes/Istvan/I_index.js";
 import { useState } from "react";
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
           <Route /*global: path="https://keszarmin.github.io/school_portfolio_web/gergo" */ path="/school_portfolio_web/gergo" element={<G_index />} /> 
           {/* Balázs */}
           <Route /*global: path="https://keszarmin.github.io/school_portfolio_web/balazs"*/ path="/school_portfolio_web/balazs" element={<B_index />} /> 
+          {/* István */}
+          <Route /*global: path="https://keszarmin.github.io/school_portfolio_web/istvan"*/ path="/school_portfolio_web/istvan" element={<I_index />} /> 
         </Route>
       </Routes>
     </BrowserRouter>
