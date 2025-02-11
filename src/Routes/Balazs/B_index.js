@@ -23,12 +23,12 @@ function B_index() {
     </header>
 
     <section id="about">
-        <h2 className='h2_b'>1. Rólam</h2>
+        <h2 className='h2_b mb-2'>1. Rólam</h2>
         <p><span class="bold">Név:</span> Stier Balázs</p>
         <p><span class="bold">Kor:</span> 16</p>
         <p><span class="bold">Lakóhely:</span> Pécs</p>
 
-        <h3>1. Család</h3>
+        <h3 className='mt-5'>1. Család</h3>
         <ul>
             <li>Édesanyám: Hajnika</li>
             <li>Édesapám: Petike</li>
@@ -37,10 +37,10 @@ function B_index() {
             <li>Nővérem: Ezter(Jolán)</li>
         </ul>
 
-        <h3>2. Barátok</h3>
+        <h3 className='mt-5'>2. Barátok</h3>
         <p><span class="italic">Legjobb barátom:</span> Dominik. Együtt nőttünk fel, 1 eves korom óta ismerem.</p>
 
-        <h3>3. Amit szeretek</h3>
+        <h3 className='mt-5'>3. Amit szeretek</h3>
         <ul>
             <li><span class="bold">Zene:</span> Pop </li>
             <li><span class="bold">Könyvek:</span> Max ha unatkozok akkor szoktam a bünetetőjogról olvasni</li>
@@ -50,16 +50,16 @@ function B_index() {
 
     <section id="interests">
         <h2 className='h2_b'>2. Érdeklődési kör</h2>
-        <p><span class="underline">Zene</span>: A legjobban a pop zenéket szeretem főleg Shawn Mendest.</p>
+        <p className='mt-5'><span class="underline">Zene</span>: A legjobban a pop zenéket szeretem főleg Shawn Mendest.</p>
         <p><span class="underline">Filmek:</span> Búnügyi és nyomozós filmeket kedvelem.</p>
 
-        <h3>1. Kedvenc állataim</h3>
+        <h3 className='mt-5'>1. Kedvenc állataim</h3>
         <ul>
             <li>Kutya</li>
             <li>Oroszlán</li>
         </ul>
 
-        <h3>2.Egy Kép és Videó </h3>
+        <h3 className='mt-5'>2.Egy Kép és Videó </h3>
         <img src={PFP}
             alt="Kép rólam" />
         <p>Ez egy kép rólam.</p>
@@ -72,10 +72,10 @@ function B_index() {
 
     <section id="future">
         <h2 className='h2_b'>3. Jövőbeli tervek</h2>
-        <p>Szeretném befejezni az egyetemet, és elhelyezkedni egy jó munkahelyen a programozás területén, de lehet hogy joggal kapcsolatos ágon tanulok tovább.</p>
+        <p className='mt-5'>Szeretném befejezni az egyetemet, és elhelyezkedni egy jó munkahelyen a programozás területén, de lehet hogy joggal kapcsolatos ágon tanulok tovább.</p>
         <p>A jövőben szeretnék külföldre költözni (spanyolország) és ott folytatni  a kariert, családot alapítani.</p>
 
-        <h3>1. Táblázat a tervekről</h3>
+        <h3 className='mt-5'>1. Táblázat a tervekről</h3>
         <div class="table-container">
             <table className='table'>
                 <tr>

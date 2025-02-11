@@ -6,10 +6,12 @@
 
 .h1_b { 
     color: #333;
+    font-size: xx-large;
 }
 
 .h2_b {
     color: #7353cc;
+    font-size: x-large;
 }
 
 header {
