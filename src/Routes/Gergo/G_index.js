@@ -9,8 +9,8 @@ import { Link } from 'react-router-dom'
 
 function G_index() {
   return (
-    <div className='body h-full w-full'>
-      <div className="doboz">
+    <div className='body'>
+      <div className="doboz mt-20">
           <h1 className='text-center text-4xl p-5'>Üdvözöllek a Gergő oldalon!</h1>
           <h2 id='h2' className="text-center text-2xl p-10"> <u>20 érdekesség rólam</u>(13)</h2 >
           

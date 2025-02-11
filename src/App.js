@@ -13,14 +13,14 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/school_portfolio_web/" element={<Root setData={setData} />} />
-        <Route path="/school_portfolio_web/" element={<Map curr={Data} />} >  
+        <Route  /*path="https://keszarmin.github.io/school_portfolio_web"*/ path="/school_portfolio_web" element={<Root setData={setData} />} />
+        <Route /*path="https://keszarmin.github.io/school_portfolio_web"*/ path="/school_portfolio_web" element={<Map curr={Data} />} >  
           {/* Ármin */}
-          <Route path="/school_portfolio_web/armin" element={<A_Index />} />
+          <Route /*global: path="https://keszarmin.github.io/school_portfolio_web/armin"*/ path="/school_portfolio_web/armin" element={<A_Index />} />
           {/* Gergő */}
-          <Route path="/school_portfolio_web/gergo" element={<G_index />} /> 
+          <Route /*global: path="https://keszarmin.github.io/school_portfolio_web/gergo" */ path="/school_portfolio_web/gergo" element={<G_index />} /> 
           {/* Balázs */}
-          <Route path="/school_portfolio_web/balazs" element={<B_index />} /> 
+          <Route /*global: path="https://keszarmin.github.io/school_portfolio_web/balazs"*/ path="/school_portfolio_web/balazs" element={<B_index />} /> 
         </Route>
       </Routes>
     </BrowserRouter>
